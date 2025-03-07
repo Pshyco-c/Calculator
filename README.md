@@ -42,4 +42,4 @@ Simply download the files and open `calculator.html` in your browser. No additio
 
 ---
 
-Created with ❤️ | Modern Calculator Project 
+Created with ❤️ by Pshyco-c | Modern Calculator Project 
