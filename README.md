@@ -2,6 +2,10 @@
 
 A sleek, responsive calculator with a modern design and advanced features.
 
+## Description
+
+This repository contains a modern, feature-rich calculator web application built with HTML, CSS, and JavaScript. It features a beautiful glassmorphism UI design with dark and light themes, responsive layout for all devices, and full keyboard support. The calculator supports standard arithmetic operations, percentage calculations, and includes visual feedback with smooth animations.
+
 ![Calculator Screenshot](https://via.placeholder.com/300x400/2c3e50/ffffff?text=Calculator)
 
 ## Features
@@ -40,6 +44,14 @@ A sleek, responsive calculator with a modern design and advanced features.
 
 Simply download the files and open `calculator.html` in your browser. No additional dependencies required.
 
+## Website
+
+Visit the live demo: [Modern Calculator](https://pshyco-c.github.io/modern-calculator)
+
 ---
 
 Created with ❤️ by Pshyco-c | Modern Calculator Project 
+
+## Topics
+
+`calculator` `javascript` `web-development` `html` `css` `responsive-design` `glassmorphism` `dark-mode` `light-mode` `frontend` 
