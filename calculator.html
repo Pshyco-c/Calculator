@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modern Calculator</title>
+  <link rel="stylesheet" href="calculator.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <script defer src="calculator.js"></script>
+</head>
+<body>
+  <div id="main">
+    <div class="title-bar">
+      <h1>Calculator</h1>
+      <div class="theme-toggle">
+        <i class="fas fa-moon"></i>
+      </div>
+    </div>
+    <input id="input" type="text" value="0" readonly aria-label="Calculator display">
+   
+    <div class="button-row">
+      <button class="oprtr" aria-label="Clear all">AC</button>
+      <button class="oprtr" aria-label="Delete last character">DEL</button>
+      <button class="oprtr" aria-label="Percentage">%</button>
+      <button class="oprtr" aria-label="Divide">/</button>
+    </div>
+    <div class="button-row">
+      <button aria-label="Seven">7</button>
+      <button aria-label="Eight">8</button>
+      <button aria-label="Nine">9</button>
+      <button class="oprtr" aria-label="Multiply">×</button>
+    </div>
+    <div class="button-row">
+      <button aria-label="Four">4</button>
+      <button aria-label="Five">5</button>
+      <button aria-label="Six">6</button>
+      <button class="oprtr" aria-label="Subtract">−</button>
+    </div>
+    <div class="button-row">
+      <button aria-label="One">1</button>
+      <button aria-label="Two">2</button>
+      <button aria-label="Three">3</button>
+      <button class="oprtr" aria-label="Add">+</button>
+    </div>
+    <div class="button-row">
+      <button aria-label="Zero">0</button>
+      <button aria-label="Double zero">00</button>
+      <button aria-label="Decimal point">.</button>
+      <button id="eql" aria-label="Equals">=</button>
+    </div>
+  </div>
+</body>
+</html>
